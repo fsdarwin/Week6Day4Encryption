@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Week6Day4Encryption</string>
+    <string name="login_message">Please Sign in or Create a New Account.</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="empty_string" />
+    <string name="log_in_error_message_1">PLEASE SIGN IN WITH YoUR ACCOUNT</string>
+    <string name="log_in_error_message_2">USERNAME / PASSWORD DO NOT MATCH</string>
+    <string name="password_is">Password is</string>
+    <string name="change_password">Change Password</string>
+</resources>
